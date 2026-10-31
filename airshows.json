@@ -2,6 +2,21 @@
   "updated": "2026-10-31",
   "airshows": [
     {
+      "id": "caf-central-texas-fall-fly-day-2026",
+      "name": "CAF FALL FLY & FUN DAY",
+      "venue": "San Marcos Regional Airport",
+      "place": "San Marcos, TX",
+      "latitude": 29.89,
+      "longitude": -97.86,
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "url": "https://commemorativeairforce.org/events",
+      "why": "Warbird ride day: a BT-13, the C-45 Lone Star Lady, the C-47 That's All, Brother",
+      "rangeMiles": 10,
+      "near": true,
+      "confirmed": true
+    },
+    {
       "id": "wings-over-houston-2026",
       "name": "WINGS OVER HOUSTON",
       "venue": "Ellington Airport",
