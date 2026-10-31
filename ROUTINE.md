@@ -18,6 +18,7 @@ Rules:
 - A show whose last day is before today is dropped.
 - Dates come from the organiser's page where it exists, else a reliable listing (MILAVIA, AirshowStuff, Plane & Pilot's calendar). Give the organiser's page as `url`. When the organiser and a listing disagree, the organiser wins: listings are often stale (Airshow China 2026 moved from November to December 7–13 and most listings never caught up). Never move a show's dates on a listing alone; keep the dates in the file unless the organiser's own page says otherwise.
 - `name` in capitals, short (under 32 characters: "WINGS OVER HOUSTON", not the sponsor's full title). `why` is one line under 90 characters saying what flies (the headline act first: Blue Angels, Thunderbirds, a B-29, an F-22 demo, warbirds).
+- `open` and `close` are the public day's hours from the organiser's page (gates open, show ends; "HH:MM" 24-hour, local), with `timeZone` as the venue's IANA zone. Keep the hours already in the file unless the organiser's page changes them; leave them out when nothing is published; never guess.
 - `latitude` and `longitude` are the airfield or show site, two decimals. `rangeMiles` is 10 for an airfield, 15 for a big base or a waterfront show.
 - Sort by `start`, then name. Set `updated` to today's date.
 - Check the file parses before committing: `python3 -m json.tool airshows.json > /dev/null`.
