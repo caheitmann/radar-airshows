@@ -83,13 +83,13 @@
       "place": "Zhuhai, China",
       "latitude": 22.01,
       "longitude": 113.38,
-      "start": "2026-12-07",
-      "end": "2026-12-13",
+      "start": "2026-11-10",
+      "end": "2026-11-15",
       "url": "https://www.airshow.com.cn/",
-      "why": "J-20s, the J-35 and the Bayi team: China's new jets; public days Dec 11–13",
+      "why": "J-20s, the J-35 and the Bayi team: China's new jets; public days Nov 13–15",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": false
     },
     {
       "id": "aero-india-2027",
@@ -278,13 +278,13 @@
       "place": "San Diego, CA",
       "latitude": 32.87,
       "longitude": -117.14,
-      "start": "2027-09-25",
+      "start": "2027-09-24",
       "end": "2027-09-26",
       "url": "https://miramarairshow.com/",
       "why": "Blue Angels and the Marine air-ground demo: Ospreys, F-35Bs, Harriers",
       "rangeMiles": 15,
       "near": false,
-      "confirmed": true
+      "confirmed": false
     },
     {
       "id": "sf-fleet-week-air-show-2027",
