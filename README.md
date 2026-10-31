@@ -37,5 +37,6 @@ Nothing here is private: event names, places, dates and the organisers' links.
 - `why`: what flies, one line under 90 characters.
 - `rangeMiles`: how wide to set the radar there (10 for an airfield, 15 for a big base or a waterfront show).
 - `near`: true when it is within driving range of home (about 300 miles), false for the world list.
+- `confirmed` (optional): false when the dates came from a listing rather than the organiser. The app ignores it.
 
-Shows whose `end` has passed are dropped. The list is sorted by `start`.
+Shows whose `end` has passed are dropped. The list is sorted by `start`. The weekly run's instructions are in `ROUTINE.md`.
