@@ -2,21 +2,6 @@
   "updated": "2026-10-31",
   "airshows": [
     {
-      "id": "caf-central-texas-fall-fly-day-2026",
-      "name": "CAF FALL FLY & FUN DAY",
-      "venue": "San Marcos Regional Airport",
-      "place": "San Marcos, TX",
-      "latitude": 29.89,
-      "longitude": -97.86,
-      "start": "2026-10-31",
-      "end": "2026-10-31",
-      "url": "https://commemorativeairforcecentraltexaswing.thundertix.com/events/270041",
-      "why": "Warbird ride day: a BT-13, the C-45 Lone Star Lady, the C-47 That's All, Brother",
-      "rangeMiles": 10,
-      "near": true,
-      "confirmed": true
-    },
-    {
       "id": "wings-over-houston-2026",
       "name": "WINGS OVER HOUSTON",
       "venue": "Ellington Airport",
@@ -29,7 +14,10 @@
       "why": "Thunderbirds, a MiG-29, NASA's F-5 four-ship, Tora! Tora! Tora!, Vietnam warbirds",
       "rangeMiles": 15,
       "near": true,
-      "confirmed": true
+      "confirmed": true,
+      "open": "08:00",
+      "close": "17:00",
+      "timeZone": "America/Chicago"
     },
     {
       "id": "iruma-air-show-2026",
@@ -44,7 +32,10 @@
       "why": "Blue Impulse and the JASDF's last YS-11 flights; free, an hour from Tokyo",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "08:00",
+      "close": "15:00",
+      "timeZone": "Asia/Tokyo"
     },
     {
       "id": "caf-aviation-discovery-fest-2026",
@@ -59,7 +50,10 @@
       "why": "The B-29 FIFI, the B-24 Diamond Lil, P-51s, two B-25s, an AC-47 and a TBM flying",
       "rangeMiles": 10,
       "near": true,
-      "confirmed": true
+      "confirmed": true,
+      "open": "09:00",
+      "close": "16:00",
+      "timeZone": "America/Chicago"
     },
     {
       "id": "texas-capital-air-show-2026",
@@ -74,7 +68,10 @@
       "why": "F-22 Raptor demo, F-16 flybys, a C-47, the B-25 Yellow Rose, a Corsair, a P-51, a Wildcat",
       "rangeMiles": 10,
       "near": true,
-      "confirmed": true
+      "confirmed": true,
+      "open": "09:30",
+      "close": "16:30",
+      "timeZone": "America/Chicago"
     },
     {
       "id": "airshow-china-zhuhai-2026",
@@ -89,7 +86,10 @@
       "why": "J-20s, the J-35 and the Bayi team: China's new jets; public days Dec 11–13",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "09:00",
+      "close": "17:00",
+      "timeZone": "Asia/Shanghai"
     },
     {
       "id": "aero-india-2027",
@@ -104,7 +104,10 @@
       "why": "Tejas, Su-30MKI, Rafale and the Surya Kiran and Sarang display teams",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "09:00",
+      "close": "18:00",
+      "timeZone": "Asia/Kolkata"
     },
     {
       "id": "avalon-airshow-2027",
@@ -119,7 +122,10 @@
       "why": "RAAF F-35s, Super Hornets and the Roulettes; public days Feb 26–28",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "08:00",
+      "close": "18:00",
+      "timeZone": "Australia/Melbourne"
     },
     {
       "id": "sun-n-fun-2027",
@@ -134,7 +140,10 @@
       "why": "Spring fly-in: warbirds, homebuilts, the Blue Angels on the weekend",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "08:00",
+      "close": "17:00",
+      "timeZone": "America/New_York"
     },
     {
       "id": "thunder-over-louisville-2027",
@@ -149,7 +158,10 @@
       "why": "All-day military flyovers up the Ohio River, then giant fireworks",
       "rangeMiles": 15,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "15:00",
+      "close": "21:30",
+      "timeZone": "America/Kentucky/Louisville"
     },
     {
       "id": "nas-jrb-fort-worth-air-power-expo-2027",
@@ -164,7 +176,10 @@
       "why": "The Blue Angels at NAS JRB Fort Worth, with F-16s and C-130s on the ramp",
       "rangeMiles": 15,
       "near": true,
-      "confirmed": true
+      "confirmed": true,
+      "open": "09:00",
+      "close": "16:00",
+      "timeZone": "America/Chicago"
     },
     {
       "id": "paris-air-show-2027",
@@ -179,7 +194,10 @@
       "why": "Rafale, Airbus demos and new airliners flying daily; public days June 18–20",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "08:30",
+      "close": "18:00",
+      "timeZone": "Europe/Paris"
     },
     {
       "id": "duxford-summer-air-show-2027",
@@ -194,7 +212,10 @@
       "why": "Spitfires, Mustangs and big warbird formations over the famous grass field",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "08:00",
+      "close": "19:00",
+      "timeZone": "Europe/London"
     },
     {
       "id": "royal-international-air-tattoo-2027",
@@ -209,7 +230,10 @@
       "why": "The world's biggest military airshow: jets, tankers and bombers from 20+ air forces",
       "rangeMiles": 15,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "07:30",
+      "close": "19:30",
+      "timeZone": "Europe/London"
     },
     {
       "id": "eaa-airventure-oshkosh-2027",
@@ -224,7 +248,10 @@
       "why": "10,000 planes fly in: warbirds, homebuilts, jets; the busiest tower on Earth",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "07:00",
+      "close": "21:00",
+      "timeZone": "America/Chicago"
     },
     {
       "id": "abbotsford-airshow-2027",
@@ -239,7 +266,10 @@
       "why": "Canada's national airshow: the Snowbirds, a CF-18 demo, a US jet team most years",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "09:30",
+      "close": "17:00",
+      "timeZone": "America/Vancouver"
     },
     {
       "id": "duxford-battle-of-britain-2027",
@@ -254,7 +284,10 @@
       "why": "Mass Spitfire and Hurricane flypasts, 1940s style",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "08:00",
+      "close": "19:00",
+      "timeZone": "Europe/London"
     },
     {
       "id": "sanicole-airshow-2027",
@@ -269,7 +302,10 @@
       "why": "Saturday's sunset show, then Sunday's European fast jets and display teams",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "10:00",
+      "close": "17:30",
+      "timeZone": "Europe/Brussels"
     },
     {
       "id": "mcas-miramar-air-show-2027",
@@ -284,7 +320,10 @@
       "why": "Blue Angels and the Marine air-ground demo: Ospreys, F-35Bs, Harriers",
       "rangeMiles": 15,
       "near": false,
-      "confirmed": false
+      "confirmed": false,
+      "open": "08:00",
+      "close": "17:00",
+      "timeZone": "America/Los_Angeles"
     },
     {
       "id": "sf-fleet-week-air-show-2027",
@@ -299,7 +338,10 @@
       "why": "Blue Angels under the Golden Gate, a United 777, an F-35 and the fleet in port",
       "rangeMiles": 15,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "12:00",
+      "close": "16:00",
+      "timeZone": "America/Los_Angeles"
     },
     {
       "id": "dubai-airshow-2027",
@@ -311,10 +353,13 @@
       "start": "2027-11-15",
       "end": "2027-11-19",
       "url": "https://www.dubaiairshow.aero/",
-      "why": "Gulf air forces, Emirates A380s and the Middle East's biggest static park",
+      "why": "Trade-only show, no public days: Gulf air forces, Emirates A380s, a huge static park",
       "rangeMiles": 15,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "10:00",
+      "close": "17:30",
+      "timeZone": "Asia/Dubai"
     },
     {
       "id": "singapore-airshow-2028",
@@ -329,7 +374,10 @@
       "why": "Asia's biggest: F-15 and F-35 demos, regional jet teams; public Feb 19–20",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "09:30",
+      "close": "17:00",
+      "timeZone": "Asia/Singapore"
     },
     {
       "id": "fidae-2028",
@@ -344,7 +392,10 @@
       "why": "Latin America's big one: Chilean F-16s, the Halcones team, the region's air forces",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "10:00",
+      "close": "17:00",
+      "timeZone": "America/Santiago"
     },
     {
       "id": "ila-berlin-2028",
@@ -359,7 +410,10 @@
       "why": "Luftwaffe Eurofighters, the A400M and NATO guests; public weekend May 20–21",
       "rangeMiles": 10,
       "near": false,
-      "confirmed": true
+      "confirmed": true,
+      "open": "10:00",
+      "close": "18:00",
+      "timeZone": "Europe/Berlin"
     }
   ]
 }
