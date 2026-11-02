@@ -1,39 +1,6 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-02",
   "airshows": [
-    {
-      "id": "caf-central-texas-fall-fly-day-2026",
-      "name": "CAF FALL FLY & FUN DAY",
-      "venue": "San Marcos Regional Airport",
-      "place": "San Marcos, TX",
-      "latitude": 29.89,
-      "longitude": -97.86,
-      "start": "2026-10-31",
-      "end": "2026-10-31",
-      "url": "https://commemorativeairforce.org/events",
-      "why": "Warbird ride day: a BT-13, the C-45 Lone Star Lady, the C-47 That's All, Brother",
-      "rangeMiles": 10,
-      "near": true,
-      "confirmed": true
-    },
-    {
-      "id": "wings-over-houston-2026",
-      "name": "WINGS OVER HOUSTON",
-      "venue": "Ellington Airport",
-      "place": "Houston, TX",
-      "latitude": 29.61,
-      "longitude": -95.16,
-      "start": "2026-10-31",
-      "end": "2026-11-01",
-      "url": "https://wingsoverhouston.com/",
-      "why": "Thunderbirds, a MiG-29, NASA's F-5 four-ship, Tora! Tora! Tora!, Vietnam warbirds",
-      "rangeMiles": 15,
-      "near": true,
-      "confirmed": true,
-      "open": "08:00",
-      "close": "17:00",
-      "timeZone": "America/Chicago"
-    },
     {
       "id": "iruma-air-show-2026",
       "name": "IRUMA AIR SHOW",
