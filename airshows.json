@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-23",
   "airshows": [
     {
       "id": "airshow-china-zhuhai-2026",
@@ -54,6 +54,21 @@
       "open": "08:00",
       "close": "18:00",
       "timeZone": "Australia/Melbourne"
+    },
+    {
+      "id": "bluebonnet-air-show-2027",
+      "name": "BLUEBONNET AIR SHOW",
+      "venue": "Burnet Municipal Airport",
+      "place": "Burnet, TX",
+      "latitude": 30.75,
+      "longitude": -98.24,
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "url": "https://www.bluebonnetairshow.com/",
+      "why": "CAF Highland Lakes warbird day: aerobatics and vintage aircraft in the Hill Country",
+      "rangeMiles": 10,
+      "near": true,
+      "confirmed": true
     },
     {
       "id": "sun-n-fun-2027",
@@ -270,6 +285,21 @@
       "open": "12:00",
       "close": "16:00",
       "timeZone": "America/Los_Angeles"
+    },
+    {
+      "id": "wings-over-houston-2027",
+      "name": "WINGS OVER HOUSTON",
+      "venue": "Ellington Field",
+      "place": "Houston, TX",
+      "latitude": 29.61,
+      "longitude": -95.16,
+      "start": "2027-10-16",
+      "end": "2027-10-17",
+      "url": "https://wingsoverhouston.com",
+      "why": "Blue Angels on the 2027 schedule, plus warbirds and jets at Ellington",
+      "rangeMiles": 10,
+      "near": true,
+      "confirmed": false
     },
     {
       "id": "dubai-airshow-2027",
